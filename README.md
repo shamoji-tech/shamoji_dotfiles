@@ -24,6 +24,24 @@ https://github.com/zdharma/zinit
 
 Terminal上のフォントをMesloLGS NFに指定
 
-### dotfileの適用
+## vimrc
+Vundleのインストールが必要。
+
+`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+
+を使用することでVundleがインストールされる。
+
+## dotfileの適用
 
 git cloneして展開すればOK
+
+## そのあとやること
+
+## zsh
+
+p10kの設定を終わらせる。
+
+## vim
+
+`:PluginInstall`を実行する。
+
